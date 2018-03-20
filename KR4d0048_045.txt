@@ -527,9 +527,17 @@
 雲生如湧泉雲散如飜水百變一凭欄悠悠定¶
 誰使¶
 <pb:KR4d0048_SBCK_045-27a>¶
+# SB1_0859-154.png
+# page missing
 <pb:KR4d0048_SBCK_045-28a>¶
+# SB1_0859-155.png
+# page missing
 <pb:KR4d0048_SBCK_045-29a>¶
+# SB1_0859-156.png
+# page missing
 <pb:KR4d0048_SBCK_045-30a>¶
+# SB1_0859-157.png
+# page missing
 <pb:KR4d0048_SBCK_045-31a>¶
 　　　禊亭¶
 觴流無定處客醉醒還酌毋令仲御歌空使人¶
@@ -541,6 +549,8 @@
 猗猗翠蔓長藹藹繁香足綺席墮殘英芳罇漬¶
 餘馥¶
 <pb:KR4d0048_SBCK_045-31b>¶
+# SB1_0859-159.png
+# page missing
 <pb:KR4d0048_SBCK_045-31b>¶
 　　　此君菴¶
 風稍遶林匝霜幹當窻靜遥知素壁上醉墨森¶
@@ -642,3 +652,4 @@
 安故丘嗚呼哀哉尚饗¶
 丹淵集附録終¶
 <pb:KR4d0048_SBCK_045-36b>¶
+# SB1_0859-170.png
