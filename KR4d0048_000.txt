@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0141-000丹淵集-叙.
 <pb:KR4d0048_SBCK_000-1a>¶
+# ?
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0141-000丹淵集-墓誌銘.
 <pb:KR4d0048_SBCK_000-2a>¶
@@ -151,6 +152,8 @@
 呉建先受之雲間陳仲醇仲¶
 醇復為校讎付建先剞劂以¶
 <pb:KR4d0048_SBCK_000-9b>¶
+# SB1_0852-007.png
+# page missing
 <pb:KR4d0048_SBCK_000-9b>¶
 鮮藏書之家縦有之上者錦¶
 苞綾襲供&KR0487;董之翫　在塵¶
@@ -1012,6 +1015,8 @@
 　　　　　過大散&KR0009;子駿¶
 　　　　　飛仙石溪¶
 <pb:KR4d0048_SBCK_000-54b>¶
+# SB1_0852-147.png
+# page missing
 <pb:KR4d0048_SBCK_000-54b>¶
 　　　　㴠虚亭¶
 　　　　菡蓞亭¶
